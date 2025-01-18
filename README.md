@@ -39,13 +39,12 @@ La API-REST de Foro Alura es una aplicación backend desarrollada para facilitar
 <div align="center">
   <br>
 
-  ![Java Version](https://img.shields.io/badge/Java-17-orange)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.5-brightgreen)
+  ![Java Version](https://img.shields.io/badge/Java-23-orange)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-brightgreen)
   ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-  ![Swagger](https://img.shields.io/badge/Swagger-3.0.0-red)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2024.1-orange)
+  ![Swagger](https://img.shields.io/badge/Swagger-2.8.3-brightgreen)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2024.1-lightblue)
   ![Insomnia](https://img.shields.io/badge/Insomnia-9.3.2-purple)
-
 <div>
 </details>
 
