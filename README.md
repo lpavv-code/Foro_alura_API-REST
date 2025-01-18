@@ -1,5 +1,5 @@
 <p align="center">
-  <img center src="api-rest.png" width="610" height="380"></img>
+  <img center src="img/api-rest.png" width="610" height="380"></img>
 </p>
 
 <h1 align="center"> CHALLENGE | Foro Alura - API REST </h1>
