@@ -47,7 +47,7 @@ Challenge_Foro_Alura
 │   ├── resources
 │   │   ├── db/migration
 |   |   |
-│   │   └── aplicaction.properties |
+│   │   └── aplicaction.properties 
 ├── POM.XML
 └── README.md
 ```
