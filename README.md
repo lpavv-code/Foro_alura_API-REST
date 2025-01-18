@@ -65,7 +65,7 @@ Challenge_Foro_Alura
   ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
   ![Swagger](https://img.shields.io/badge/Swagger-2.8.3-brightgreen)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2024.1-lightblue)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-9.3.2-purple)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-10.3.0-purple)
 <div>
 </details>
 
