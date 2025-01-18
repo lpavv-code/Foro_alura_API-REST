@@ -30,6 +30,27 @@ La API-REST de Foro Alura es una aplicación backend desarrollada para facilitar
 * Listar topico.
 * Registrar mensajes ...
 
+## Estructura principal de carpetas :open_file_folder:
+
+```
+Challenge_Foro_Alura
+├──src
+│   ├── main
+│   │   └── controller
+|   |   └── dto
+|   |   └── infra
+|   |   └── model
+|   |   └── repository
+|   |   └── service
+|   |   |
+|   |   └── ForoApiApplication.java
+│   ├── resources
+│   │   ├── db/migration
+|   |   |
+│   │   └── aplicaction.properties |
+├── POM.XML
+└── README.md
+```
 </details>
 
 <details>
