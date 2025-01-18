@@ -15,10 +15,20 @@
 
 <details>
   <summary>
-    Contenido
+    Contenido Importante
   </summary>
 
-## Descripción 
-<p>
-La API de Foro Hub es una aplicación backend desarrollada para facilitar funcionalidades de foros de discusión. Construida con Java y Spring Boot, proporciona endpoints RESTful robustos para gestionar tópicos, mensajes, autenticación de usuarios y más. Esta API se integra perfectamente con MySQL para el almacenamiento de datos y utiliza Swagger para una documentación clara y detallada de la API.
-<p>
+## 📝 Descripción
+
+La API-REST de Foro Alura es una aplicación backend desarrollada para facilitar funcionalidades de foros de discusión. Construida con Java y Spring Boot, MySql, contruyendo metodos y endpoints robustos para gestionar tópicos, mensajes, autenticación de usuarios y más. Esta API se integra perfectamente con MySQL para el almacenamiento de datos y utiliza Srping Doc | Swagger para una documentación clara y detallada de la API.
+
+## 🔨 Funcionalidades
+
+* Registrar usuarios.
+* Listar usuarios.
+* Registrar topico.
+* Listar topico.
+* Registrar mensajes ...
+
+
+</details>
